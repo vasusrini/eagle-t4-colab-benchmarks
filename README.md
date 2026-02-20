@@ -99,7 +99,12 @@ The official EAGLE repo targets a research environment. Running it on Colab's cu
 > **Note:** Vicuna 7B is intentionally excluded. It loads successfully but consistently OOMs during EAGLE generation on the T4 — the combined memory pressure of base model + EAGLE head + KV cache during speculative decoding exceeds 15GB.
 
 ---
+## Results
 
+### LLaMA 3.1 8B — EAGLE
+![Deepseek 8B EAGLE 3](bench_deepseek_8b_e3_7.ipynb)
+
+---
 ## References
 
 - [EAGLE paper](https://arxiv.org/abs/2401.15077)
