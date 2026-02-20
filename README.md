@@ -100,6 +100,10 @@ The official EAGLE repo targets a research environment. Running it on Colab's cu
 
 ---
 ## Results
+bench_qwen2_7b_e1_5
+
+### QWEN 7B — EAGLE 
+![QWEN 7B EAGLE ](bench_qwen2_7b_e1_5.png)
 
 ### QWEN 8B — EAGLE 3
 ![QWEN 8B EAGLE 3](bench_qwen3_8b_e3_6.png)
