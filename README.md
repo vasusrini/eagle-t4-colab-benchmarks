@@ -102,7 +102,7 @@ The official EAGLE repo targets a research environment. Running it on Colab's cu
 ## Results
 
 ### LLaMA 3.1 8B — EAGLE
-![Deepseek 8B EAGLE 3](bench_deepseek_8b_e3_7.ipynb)
+![Deepseek 8B EAGLE 3](bench_deepseek_8b_e3_7.png)
 
 ---
 ## References
