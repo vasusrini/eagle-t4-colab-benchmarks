@@ -101,6 +101,9 @@ The official EAGLE repo targets a research environment. Running it on Colab's cu
 ---
 ## Results
 
+### QWEN 8B — EAGLE 3
+![QWEN 8B EAGLE 3](bench_qwen3_8b_e3_6.png)
+
 ### DeepSeek 8B — EAGLE 3
 ![DeepSeek 8B EAGLE 3](bench_deepseek_8b_e3_7.png)
 
