@@ -102,7 +102,7 @@ The official EAGLE repo targets a research environment. Running it on Colab's cu
 ## Results
 
 ### Llama3.1 8B — EAGLE 
-![Llama3.1 8B EAGLE ](bench_llama31_8b_e2_2.png)
+![Llama3.1 8B EAGLE ](bench_llama31_8b_e3_2.png)
 
 ### Llama3 8B — EAGLE 
 ![Llama3 8B EAGLE ](bench_llama3_8b_e1_3.png)
