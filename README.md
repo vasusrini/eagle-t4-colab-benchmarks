@@ -106,22 +106,22 @@ The official EAGLE repo targets a research environment. Running it on Colab's cu
 
 
 ### Llama3.1 8B — EAGLE-3 
-![Llama3.1 8B EAGLE 3 ](bench_llama31_8b_e3_2.png)
+![Llama3.1 8B EAGLE 3 ](images/bench_llama31_8b_e3_2.png)
 
 ### Llama3 8B — EAGLE 
-![Llama3 8B EAGLE ](bench_llama3_8b_e1_3.png)
+![Llama3 8B EAGLE ](images/bench_llama3_8b_e1_3.png)
 
 ### Llama2 7B — EAGLE 
-![Llama2 7B EAGLE ](bench_llama2_7b_e1_4.png)
+![Llama2 7B EAGLE ](images/bench_llama2_7b_e1_4.png)
 
 ### QWEN 7B — EAGLE 
-![QWEN 7B EAGLE ](bench_qwen2_7b_e1_5.png)
+![QWEN 7B EAGLE ](images/bench_qwen2_7b_e1_5.png)
 
 ### QWEN 8B — EAGLE 3
-![QWEN 8B EAGLE 3](bench_qwen3_8b_e3_6.png)
+![QWEN 8B EAGLE 3](images/bench_qwen3_8b_e3_6.png)
 
 ### DeepSeek 8B — EAGLE 3
-![DeepSeek 8B EAGLE 3](bench_deepseek_8b_e3_7.png)
+![DeepSeek 8B EAGLE 3](images/bench_deepseek_8b_e3_7.png)
 
 ---
 ## References
